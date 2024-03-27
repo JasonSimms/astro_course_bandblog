@@ -1,3 +1,6 @@
+# Astro Crash Course by JamesQquick
+[![Astro Course REPO](https://github.com/jamesqquick/astro-course-demo)]
+
 # Astro Starter Kit: Basics
 
 ```sh
